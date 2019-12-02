@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'lums-icon';
+  src:  url('fonts/lums-icon.eot?mkq78k');
+  src:  url('fonts/lums-icon.eot?mkq78k#iefix') format('embedded-opentype'),
+    url('fonts/lums-icon.ttf?mkq78k') format('truetype'),
+    url('fonts/lums-icon.woff?mkq78k') format('woff'),
+    url('fonts/lums-icon.svg?mkq78k#lums-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="lums-icon-"], [class*=" lums-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'lums-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.lums-icon-up-arrow:before {
+  content: "\e906";
+}
+.lums-icon-down-arrow:before {
+  content: "\e907";
+}
+.lums-icon-laptop:before {
+  content: "\e900";
+}
+.lums-icon-left-arrow:before {
+  content: "\e901";
+}
+.lums-icon-presentation:before {
+  content: "\e902";
+}
+.lums-icon-strategy:before {
+  content: "\e903";
+}
+.lums-icon-target:before {
+  content: "\e904";
+}
+.lums-icon-training:before {
+  content: "\e905";
+}

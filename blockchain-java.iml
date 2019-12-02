@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="Maven" />
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <webroots>
+          <root url="file://$MODULE_DIR$" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+</module>
